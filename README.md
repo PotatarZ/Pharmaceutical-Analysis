@@ -1,2 +1,2 @@
 # Pharmaceutical-Analysis
-Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications, complete data from their most recent animal study
+Pymaceuticals, Inc., a hypothetical new pharmaceutical company that specializes in anti-cancer medications has asked me to complete data from their most recent animal study. This is a clean-up and analysis of the data sent to me.
